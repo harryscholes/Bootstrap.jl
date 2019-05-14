@@ -126,6 +126,9 @@ are listed in the documentation for further reading.
 Contributions of any kind are very welcome. Please feel free to open pull
 requests or issues if you have suggestions for changes, ideas or questions.
 
+If you want to contribute new features, please open your pull requests against the
+[develop](https://github.com/juliangehring/Bootstrap.jl/tree/develop) branch.
+
 
 ## Frequently Asked Questions
 
